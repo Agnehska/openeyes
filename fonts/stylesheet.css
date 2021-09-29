@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialMT.woff2') format('woff2'),
+        url('ArialMT.woff') format('woff'),
+        url('ArialMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial-ItalicMT.woff2') format('woff2'),
+        url('Arial-ItalicMT.woff') format('woff'),
+        url('Arial-ItalicMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Creata';
+    src: url('Creata-Regular.woff2') format('woff2'),
+        url('Creata-Regular.woff') format('woff'),
+        url('Creata-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Pro Light LC';
+    src: url('Code-Pro-Light-LC.woff2') format('woff2'),
+        url('Code-Pro-Light-LC.woff') format('woff'),
+        url('Code-Pro-Light-LC.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Code Pro Light LC';
+    src: url('Code-Pro-Light-LC_1.woff2') format('woff2'),
+        url('Code-Pro-Light-LC_1.woff') format('woff'),
+        url('Code-Pro-Light-LC_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Creata';
+    src: url('Creata-Medium.woff2') format('woff2'),
+        url('Creata-Medium.woff') format('woff'),
+        url('Creata-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
